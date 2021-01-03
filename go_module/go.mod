@@ -1,4 +1,4 @@
-module example.com/hello
+module github.com/hamelsmu/build-hugo/go_module
 
 go 1.15
 
