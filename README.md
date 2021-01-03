@@ -7,11 +7,8 @@ Folders:
     > This post walks through a sequence of common operations that arise when developing Go code with modules:
 
     - Creating a new module.
-    - Adding a dependency.
-    - Upgrading dependencies.
-    -   Adding a dependency on a new major version.
-    -   Upgrading a dependency to a new major version.
-    -   Removing unused dependencies.
+    - Publishing Go Modules
+
 - `/hello`: thi is going through the ["How to Write Go Code"](https://golang.org/doc/code.html) tutorial, which: 
     > demonstrates the development of a simple Go package inside a module and introduces the go tool, the standard way to fetch, build, and install Go modules, packages, and commands.
 
